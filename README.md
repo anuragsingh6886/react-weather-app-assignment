@@ -6,6 +6,7 @@ I submitted it in working and i tested it with multiple inputs and parameters.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![weather screenshot](https://user-images.githubusercontent.com/83186717/196952652-3cc1c2ee-2b6f-4a7b-9db0-d9d29d0965fc.jpg)
 
 ## Available Scripts
 
