@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #031d50;
+  color: rgb(30, 40, 49);
+}
+.ContentCard {
+  position: absolute; 
+  background-color: #cabfbf;
+  top: 30%;
+  left: 28%;
+  width: 500px;
+  border: 3px solid rgb(57, 185, 182);
+  padding: 2px;
+  margin: 10px;
+}
