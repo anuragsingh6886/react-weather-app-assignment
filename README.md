@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
+Here is my solution with code and hosted in Vercel app with url, i used Material UI to desgine this page and use some simple css prpety to align contnt in it.
+I submitted it in working and i tested it with multiple inputs and parameters. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
